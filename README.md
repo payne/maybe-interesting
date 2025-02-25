@@ -25,4 +25,10 @@ Processing has been around for a long time: implementations in java, javascript,
 1. [Google Colab](https://colab.research.google.com/)
 1. [JupyterLab (aka Jupyter Notebooks)](https://jupyter.org/)
 1. [Marimo Python notebooks](https://marimo.io/)
+1. [https://pyodide.org/](https://pyodide.org/) is not a notebook -- it's just python. TIL that [https://www.transcrypt.org/](https://www.transcrypt.org/) also exists.
+
+
+# YouTube
+1. [Mary Rose Cook live codes Space Invaders](https://youtu.be/hbKN-9o5_Z0?si=k4EvzBidHP3_j_E-)
+
 
